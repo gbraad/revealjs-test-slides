@@ -3,6 +3,7 @@ title: "Hello, World!"
 theme: "real-black"
 highlightTheme: "tomorrow-night-bright"
 controls: false
+enableMenu: false    # disable vscode reveal menu
 ---
 
 # Hello, World!
